@@ -1,2 +1,2 @@
-# dnc-samples
-Sample projects for DNC
+# ndc-samples
+Sample projects for NDC
